@@ -1,4 +1,4 @@
-# Gnome Custom Menu Panel
+# Gnome Top Bar Custom Menu Extension
 Custom menu for Gnome Top Bar with your favorite program shortcuts, commands and scripts.
 
 ![another Preview](widget.png)
