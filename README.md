@@ -1,7 +1,6 @@
 # Gnome Custom Menu Panel
-Custom menu on Gnome Top Bar with your favorite program shortcuts.
+Custom menu for Gnome Top Bar with your favorite program shortcuts, commanands and scripts.
 
-![Screenshot Preview](screenshot.png)
 ![another Preview](widget.png)
 
 
