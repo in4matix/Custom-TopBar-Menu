@@ -1,5 +1,5 @@
 # Gnome Custom Menu Panel
-Your custom menu on Gnome Top Bar with your favorite program shortcuts.
+Your custom menu on Gnome Top Bar with your favorite program shortcuts, commands and scripts.
 
 Documentation
 > https://github.com/andreabenini/gnome-plugin.custom-menu-panel/blob/main/README.md
