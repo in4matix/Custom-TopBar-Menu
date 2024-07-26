@@ -8,16 +8,16 @@ Custom menu for Gnome Top Bar with your favorite program shortcuts, commands and
 - Edit `.entries.json` to match your needs
 - Copy `.entries.json` file to `$HOME/`  
 
-If you edit `.entries.json` while running gnome please ensure to reload Gnome Window Manager (Alt+F2, "r")  
+If you edit `.entries.json` while running gnome please ensure to reload Gnome Session (Alt+F2, "r")  
 Tested with: Arch Linux, X11, Gnome v42.0.0.  
-Widgets manual below describe available options, in the `examples` directory you can see some tests you can
-pick for your setup
+The guide below describe available options, in the `examples` directory you can see some tests you can
+pick for your setup.
 
 
 ---
 
-## Widgets Manual
-Here are common widgets and entities you can use with this plugin:
+## Guide
+Here are some examples you can use with this extension:
 ### **- Launcher**
 Create a new entry and put it in the menu
 ```json
@@ -52,7 +52,7 @@ and they can be of any type (launcher, separator, submenu, ...)
 ### **- Toggler**
 Create a toggle item on menu, it has a detector and ON|OFF commands.
 Command detector can be _activated|deactivated_ by a **0** _(success)_ return error level
-and later detected with a plain JavaScript eval. See graphical result on above screenshots
+and later detected with a plain JavaScript eval.
 ```json
     {
       "type": "toggler",
