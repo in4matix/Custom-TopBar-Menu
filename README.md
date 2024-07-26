@@ -9,8 +9,8 @@ Custom menu for Gnome Top Bar with your favorite program shortcuts, commands and
 - Copy `.entries.json` file to `$HOME/`  
 
 If you edit `.entries.json` while running gnome please ensure to reload Gnome Session (Alt+F2, "r")  
-Tested on Gnome v42-44 
-The guide below describe available options, in the `examples` directory you can see some tests you can
+Tested on Gnome v42-44.
+The guide below describes available options. In the `examples` directory you can see some tests you can
 pick for your setup.
 
 
