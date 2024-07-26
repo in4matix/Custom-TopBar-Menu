@@ -6,7 +6,7 @@
 #       Feel free to edit this file and send it back to me as a merge request
 #
 DEST=custom-menu-panel@AndreaBenini
-ZIP=/tmp/custom-menu-panelAndreaBenini.shell-extension.zip
+ZIP=/tmp/custom-menu-panel@AndreaBenini.zip
 
 cd $DEST
 zip --quiet $ZIP *
